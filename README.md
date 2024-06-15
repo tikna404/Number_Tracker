@@ -1,4 +1,4 @@
-# Phone_Number Tracker
+# Phone-Number-Tracker
 
 This Python script allows users to get the provider and location information for a given phone number.
 
