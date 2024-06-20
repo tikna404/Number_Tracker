@@ -13,7 +13,7 @@ This Python script allows users to get the provider and location information for
 * Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/Phone_Number.git
+    git clone https://github.com/tikna404/Phone_Number.git
     ```
 ## Libraries
 ```bash
@@ -24,3 +24,4 @@ pip install geocoder
 ```
 ## Contributing
 Feel free to contribute and frok the project
+
