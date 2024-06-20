@@ -24,4 +24,4 @@ pip install geocoder
 ```
 ## Contributing
 Feel free to contribute and frok the project
-
+# Happy Coding!
